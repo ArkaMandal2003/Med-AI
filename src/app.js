@@ -223,20 +223,20 @@ var sense=[
 ];
 
 var text=[
-  {
+    {
     "name": "default",
     "keywords": ' Hello Hi hey hiya howdy yo ho  meet What name how chatbot',
     "message": [
-      "👋 Welcome to [Chatbot's Name]! Your virtual assistant for personalized assistance and information.",
-      "🌐 Explore a range of features – from answering questions to setting reminders. [Chatbot's Name] is here to make your life easier!",
-      "💬 Chat with [Chatbot's Name] anytime! Whether it's advice, information, or just a friendly chat, I'm here for you.",
-      "🛠️ Need a solution? [Chatbot's Name] excels at  -solving. Describe the issue, and let's find a resolution together.",
-      "🧠 Quick and reliable! [Chatbot's Name] fetches information efficiently. Ask me anything, and I'll provide the details you need.",
-      "🌟 Tailored just for you! [Chatbot's Name] learns and adapts to your preferences, offering a personalized experience every time we chat.",
-      "🌈 Hi there! [Chatbot's Name] here to brighten your day and assist you with any questions or tasks you have.",
-      "⚙️ Streamline your tasks with [Chatbot's Name]. From setting reminders to sending notifications, I'm your automation ally.",
-      "📚 [Chatbot's Name] is always learning! Expect even smarter responses and improved assistance as we continue our conversation.",
-      "🤖 Your tech-savvy friend! [Chatbot's Name] is here to navigate the digital landscape with you, making technology more accessible and enjoyable."
+      "👋 Welcome to Med-AI! Your virtual assistant for personalized assistance and information.",
+      "🌐 Explore a range of features – from answering questions to setting reminders. Med-AI is here to make your life easier!",
+      "💬 Chat with Med-AI anytime! Whether it's advice, information, or just a friendly chat, I'm here for you.",
+      "🛠️ Need a solution? Med-AI excels at  -solving. Describe the issue, and let's find a resolution together.",
+      "🧠 Quick and reliable! Med-AI fetches information efficiently. Ask me anything, and I'll provide the details you need.",
+      "🌟 Tailored just for you! Med-AI learns and adapts to your preferences, offering a personalized experience every time we chat.",
+      "🌈 Hi there! Med-AI here to brighten your day and assist you with any questions or tasks you have.",
+      "⚙️ Streamline your tasks with Med-AI. From setting reminders to sending notifications, I'm your automation ally.",
+      "📚 Med-AI is always learning! Expect even smarter responses and improved assistance as we continue our conversation.",
+      "🤖 Your tech-savvy friend! Med-AI is here to navigate the digital landscape with you, making technology more accessible and enjoyable."
     ],
   },
 
