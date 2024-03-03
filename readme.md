@@ -109,7 +109,25 @@ Join us at Med-AI, where we redefine healthcare, making it accessible, personali
 
 - ❄️snowball: - Integrates stemming algorithms, optimizing text analysis for improved chatbot interactions. 
   - 📊What we have used: Information Retrieval, Text Mining Algorithms, Text Filtering Algorithms, Search Engine Optimization (SEO) Tools
-  
+
+-Orkes Implementation:- Integrating APIs into the backend of "ORKES" software conductor OSS marks a significant advancement in streamlining workflow processes. By incorporating flowchart workflow diagrams, the system gains a structured visual representation of tasks and their interconnections, enhancing clarity and efficiency in task execution.
+
+The integration of APIs introduces a seamless means of communication between different software components, facilitating data exchange and automating tasks. This interoperability not only enhances the functionality of the software but also opens avenues for scalability and customization. 
+
+With APIs in place, "ORKES" becomes a dynamic platform capable of interacting with external systems and services, enriching its capabilities and extending its reach beyond its native environment. This flexibility empowers users to leverage a diverse array of functionalities and services, tailored to their specific needs.
+
+Furthermore, the integration of APIs streamlines data processing, reducing manual intervention and minimizing errors. Real-time data synchronization ensures that information remains accurate and up-to-date across all connected systems, fostering collaboration and improving decision-making processes.
+
+Overall, the successful integration of APIs into the backend of "ORKES" software conductor OSS signifies a pivotal step towards enhancing workflow management, promoting efficiency, and driving innovation in organizational operations.
+
+# working diagram of orkes implementation:-
+Workflow Name:Med-AI
+Definition Link: https://play.orkes.io/workflowDef/MED-AI/1
+Execution Link: https://play.orkes.io/execution/266bc9af-d923-11ee-90b3-4ed8b8ac3789
+
+![orces](https://github.com/ArkaMandal16/Med-AI/assets/97384477/af0f263a-d23d-44af-9221-480cb1071045)
+
+
 # Working Prototype:
 
 
