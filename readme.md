@@ -121,9 +121,20 @@ Furthermore, the integration of APIs streamlines data processing, reducing manua
 Overall, the successful integration of APIs into the backend of "ORKES" software conductor OSS signifies a pivotal step towards enhancing workflow management, promoting efficiency, and driving innovation in organizational operations.
 
 # working diagram of orkes implementation:-
+
+
 Workflow Name:Med-AI
+
+
+
 Definition Link: https://play.orkes.io/workflowDef/MED-AI/1
+
+
+
+
 Execution Link: https://play.orkes.io/execution/266bc9af-d923-11ee-90b3-4ed8b8ac3789
+
+
 
 ![orces](https://github.com/ArkaMandal16/Med-AI/assets/97384477/af0f263a-d23d-44af-9221-480cb1071045)
 
